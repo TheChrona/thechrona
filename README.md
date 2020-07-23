@@ -2,7 +2,7 @@
 
 Bem vindos ao meu perfil do Github. Atualmente estou utilizando ele com mais frequência, então decidi fazer algo mais bonitinho 😄
 
-![Chrona!](/crona.gif "Chrona - Soul Eater")
+![Chrona!](https://24.media.tumblr.com/27bb4bb0f727daf34cfcc7c71676ca3a/tumblr_mhm9vv6rAL1s540p2o1_500.gif "Chrona - Soul Eater")
 
 - 🔭 Estou atualmente trabalhando com C# e ASP.NET Core em uma consultoria
 - 🌱 Estou fazendo um bootcamp de desenvolvimento fullstack de Javascript e mexendo um pouco com Go por diversão
