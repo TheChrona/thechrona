@@ -8,7 +8,6 @@ Bem vindos ao meu perfil do Github 😄
 - 🌱 Atualmente aprimorando conhecimentos em backend e frontend
 - 💬 Me pergunte sobre C#, Javascript, Typescript ou desenvolvimento Web. Talvez eu possa ajudar
 - 📫 E-mail: diogo_goulart@hotmail.com
-- 🐦 Twitter: @TheChrona
 - 😄 Pronouns: Ele/Dele Ela/Dela 🏳️‍🌈 
 
 <!--
