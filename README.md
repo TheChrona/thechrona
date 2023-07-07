@@ -6,9 +6,9 @@ Bem vindos ao meu perfil do Github 😄
 
 - 🔭 Estou atualmente trabalhando na Lambda3
 - 🌱 Atualmente aprimorando conhecimentos em backend e frontend
-- 💬 Me pergunte sobre C#, Javascript, Typescript ou desenvolvimento Web. Talvez eu possa ajudar
+- 💬 Me pergunte sobre C#, Javascript, Typescript ou desenvolvimento Web
 - 📫 E-mail: diogo_goulart@hotmail.com
-- 😄 Pronouns: Ele/Dele Ela/Dela 🏳️‍🌈 
+- 😄 Pronouns: Ela/Dela 🏳️‍🌈 
 
 <!--
 **TheChrona/thechrona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
