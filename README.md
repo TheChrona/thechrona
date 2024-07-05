@@ -7,7 +7,6 @@ Bem vindos ao meu perfil do Github 😄
 - 🔭 Estou atualmente trabalhando na Lambda3
 - 🌱 Atualmente aprimorando conhecimentos em backend e frontend
 - 💬 Me pergunte sobre C#, Javascript, Typescript ou desenvolvimento Web
-- 📫 E-mail: diogo_goulart@hotmail.com
 - 😄 Pronouns: Ela/Dela 🏳️‍🌈 
 
 <!--
