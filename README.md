@@ -4,7 +4,7 @@ Bem vindos ao meu perfil do Github 😄
 
 ![Chrona!](https://24.media.tumblr.com/27bb4bb0f727daf34cfcc7c71676ca3a/tumblr_mhm9vv6rAL1s540p2o1_500.gif "Chrona - Soul Eater")
 
-- 🔭 Estou atualmente trabalhando na Lambda3
+- 🔭 Estou atualmente trabalhando na TIVIT
 - 🌱 Atualmente aprimorando conhecimentos em backend e frontend
 - 💬 Me pergunte sobre C#, Javascript, Typescript ou desenvolvimento Web
 - 😄 Pronouns: Ela/Dela 🏳️‍🌈 
